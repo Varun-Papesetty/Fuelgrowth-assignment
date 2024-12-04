@@ -5,8 +5,8 @@ The table below shows the face of each unique influencer along with their averag
 
 |       Influencer Face                      | Average Performance              |
 |--------------------------------------------|----------------------------------|
-| ![diljit dosanjh](faces/face_influencer1.jpg) | 1.1346422261460674   
-| ![Virat Kohli](faces/face_influencer2.jpg) | 0.8172312716000001              
+| ![diljit dosanjh](faces/Diljit.png) | 1.1346422261460674   
+| ![Virat Kohli](faces/Virat.png) | 0.8172312716000001              
 
 
 
